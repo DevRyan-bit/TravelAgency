@@ -30,7 +30,7 @@ const AboutPage = () => {
             </p>
           </div>
           <div>
-            <img src="components\images\konigssee-7276585_1280.jpg" alt="Crafting a journey" className="rounded-lg shadow-2xl"/>
+            <img src="public\images\konigssee-7276585_1280.jpg" alt="Crafting a journey" className="rounded-lg shadow-2xl"/>
           </div>
         </div>
       </motion.section>
@@ -66,17 +66,17 @@ const AboutPage = () => {
               <p className="text-gray-300 max-w-2xl mx-auto mb-10">Our team is a collective of seasoned travelers, expert planners, and dedicated support staff, all united by a love for exploration.</p>
               <div className="flex flex-wrap justify-center gap-8">
                 <div className="text-center">
-                    <img src="components\images\horse-profile-2679776_1280.jpg" alt="Team Member 1" className="w-40 h-40 rounded-full mx-auto mb-4 border-4 border-brand-gold/50 object-cover"/>
+                    <img src="public\images\horse-profile-2679776_1280.jpg" alt="Team Member 1" className="w-40 h-40 rounded-full mx-auto mb-4 border-4 border-brand-gold/50 object-cover"/>
                     <h4 className="text-xl font-bold text-white">Person 1</h4>
                     <p className="text-brand-gold">Founder & CEO</p>
                 </div>
                 <div className="text-center">
-                    <img src="components\images\horse-profile-2679776_1280.jpg" alt="Team Member 2" className="w-40 h-40 rounded-full mx-auto mb-4 border-4 border-brand-gold/50 object-cover"/>
+                    <img src="public\images\horse-profile-2679776_1280.jpg" alt="Team Member 2" className="w-40 h-40 rounded-full mx-auto mb-4 border-4 border-brand-gold/50 object-cover"/>
                     <h4 className="text-xl font-bold text-white">Person 2</h4>
                     <p className="text-brand-gold">Head of Travel Design</p>
                 </div>
                 <div className="text-center">
-                    <img src="components\images\horse-profile-2679776_1280.jpg" alt="Team Member 3" className="w-40 h-40 rounded-full mx-auto mb-4 border-4 border-brand-gold/50 object-cover"/>
+                    <img src="public\images\horse-profile-2679776_1280.jpg" alt="Team Member 3" className="w-40 h-40 rounded-full mx-auto mb-4 border-4 border-brand-gold/50 object-cover"/>
                     <h4 className="text-xl font-bold text-white">Person 3</h4>
                     <p className="text-brand-gold">Air travel Specialist</p>
                 </div>
