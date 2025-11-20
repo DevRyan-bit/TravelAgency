@@ -1,0 +1,22 @@
+/* Minimal global stylesheet to satisfy index.html reference */
+:root {
+  --brand-dark: #121212;
+  --brand-light: #F5F5F5;
+  --brand-gold: #D4AF37;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--brand-dark);
+  color: var(--brand-light);
+}
+
+a { color: var(--brand-gold); }
+
+/* Small utility for the shimmer class used in index.html */
+.shimmer { opacity: 0.98; }
