@@ -108,7 +108,7 @@ import { motion } from 'framer-motion';
 import { GlobeAltIcon, MapIcon, SparklesIcon, ChevronRightIcon } from '@heroicons/react/24/outline';
 import Testimonials from '../components/Testimonials';
 
-const videoUrl = "./public/images/2873374-hd_720_720_30fps.mp4";
+const videoUrl = "./images/2873374-hd_720_720_30fps.mp4";
 
 const sectionVariants = {
   hidden: { opacity: 0, y: 50 },
@@ -270,7 +270,7 @@ const HomePage = () => {
               <DestinationCard
                 name="King of the Jungle"
                 country="Kenya"
-                imageUrl="public/images/lion-8947711_1280.jpg"
+                imageUrl="/images/lion-8947711_1280.jpg"
               />
             </motion.div>
             <motion.div
@@ -283,7 +283,7 @@ const HomePage = () => {
               <DestinationCard
                 name="Wild Beasts"
                 country="Tanzania"
-                imageUrl="public/images/leopard-163035_1280.jpg"
+                imageUrl="/images/leopard-163035_1280.jpg"
               />
             </motion.div>
             <motion.div
@@ -296,7 +296,7 @@ const HomePage = () => {
               <DestinationCard
                 name="Beautiful Coast"
                 country="Zanzibar"
-                imageUrl="public/images/sunset-4499023_1280.jpg"
+                imageUrl="/images/sunset-4499023_1280.jpg"
               />
             </motion.div>
           </div>
