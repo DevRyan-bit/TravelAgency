@@ -121,7 +121,7 @@ import {
 } from '@heroicons/react/24/solid';
 import { AppContext } from '../context/AppContext';
 
-const AGENCY_EMAIL = 'email@elysiantravels.com'; 
+const AGENCY_EMAIL = 'email@travelagency.com'; 
 
 const FormInput = (props) => (
   <div>
