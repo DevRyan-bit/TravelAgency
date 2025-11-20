@@ -6,32 +6,32 @@ const destinations = [
   {
     name: "Wildlife",
     country: "Kenya",
-    imageUrl: "components/images/lion-8947711_1280.jpg",
+    imageUrl: "public/images/lion-8947711_1280.jpg",
     description: "King of the jungle.",
   },
   {
     name: "Wildlife",
     country: "Kenya",
-    imageUrl: "components/images/leopard-163035_1280.jpg",
+    imageUrl: "public/images/leopard-163035_1280.jpg",
     description: "Preview one of the big 5 resting.",
   },
   {
     name: "Rift Valley",
     country: "Kenya",
-    imageUrl: "components/images/landscape-4018835_1280.jpg",
+    imageUrl: "public/images/landscape-4018835_1280.jpg",
     description: "Sheer cliffs and a rugged shoreline dotted with small beaches.",
   },
   {
     name: "Hot Air Balloons",
     country: "Kenya",
-    imageUrl: "components/images/balloon-1347434_1280.jpg",
+    imageUrl: "public/images/balloon-1347434_1280.jpg",
     description:
       "Balloon-filled skies and surreal rock formations in a fairytale landscape.",
   },
   {
     name: "Wildlife",
     country: "Tanzania",
-    imageUrl: "components/images/elephants-7651446_1280.jpg",
+    imageUrl: "public/images/elephants-7651446_1280.jpg",
     description:
       "Lush tropical rainforests, pristine beaches, and vibrant local culture.",
   },
@@ -39,7 +39,7 @@ const destinations = [
   {
     name: "Coast",
     country: "Tanzania, Zanzibar",
-    imageUrl: "components/images/sunset-4499023_1280.jpg",
+    imageUrl: "public/images/sunset-4499023_1280.jpg",
     description:
       "Beautiful Coast",
   },
@@ -92,3 +92,4 @@ const DestinationsPage = () => (
 );
 
 export default DestinationsPage;
+
