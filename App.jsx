@@ -3,7 +3,7 @@ import { HashRouter, Routes, Route } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import HomePage from './pages/Homepage';
+import HomePage from './pages/homepage';
 import AboutPage from './pages/aboutpage';
 import BookingPage from './pages/bookingpage';
 import ContactPage from './pages/contactpage';
