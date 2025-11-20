@@ -4,15 +4,15 @@ import { AnimatePresence } from 'framer-motion';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
-import AboutPage from './pages/aboutpage';
-import BookingPage from './pages/bookingpage';
-import ContactPage from './pages/contactpage';
-import AdminLoginPage from './pages/adminloginpage';
-import AdminDashboardPage from './pages/admindashboardpage';
+import AboutPage from './pages/AboutPage';
+import BookingPage from './pages/BookingPage';
+import ContactPage from './pages/ContactPage';
+import AdminLoginPage from './pages/AdminLoginPage';
+import AdminDashboardPage from './pages/AdminDashboardPage';
 import LoadingScreen from './components/LoadingScreen';
 import { AppProvider } from './context/AppContext';
 import CookieConsent from './components/CookieConsent';
-import DestinationsPage from './pages/destinations';
+import DestinationsPage from './pages/Destinations';
 import ScrollToTop from './components/ScrollToTop';
 
 const App = () => {
